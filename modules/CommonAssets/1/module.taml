@@ -1,0 +1,10 @@
+<ModuleDefinition
+	ModuleId="CommonAssets"
+	VersionId="1"
+	Description="Assets shared across all book projects."
+	BookCategoryIndex="0">
+		<DeclaredAssets
+			Path="assets"
+			Extension="asset.taml"
+			Recurse="true"/>
+</ModuleDefinition>

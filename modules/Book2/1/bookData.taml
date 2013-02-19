@@ -1,0 +1,7 @@
+<ScriptObject
+	Name="Book2Data"
+	pageCount="2"
+	background="Book2:background_nightStars"
+	page0="Book2Page2	NewSpring"
+	page1="Book2Page2	Page01	Narrative01"
+/>

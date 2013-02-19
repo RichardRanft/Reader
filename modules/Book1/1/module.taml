@@ -1,0 +1,17 @@
+<ModuleDefinition
+    ModuleId="Book1"
+    VersionId="1"
+    Description="A monster truck mini-game book."
+    Title="The Monster Truck."
+    Dependencies="CommonAssets=1"
+    Type="Book"
+    BookCategoryIndex="0"
+    ScriptFile="main.cs"
+    CreateFunction="create"
+    DestroyFunction="destroy">
+        <DeclaredAssets
+            Path="assets"
+            Extension="asset.taml"
+            Recurse="true"/>		
+</ModuleDefinition>
+

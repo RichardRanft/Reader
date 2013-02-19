@@ -1,0 +1,5 @@
+<AudioAsset
+    AssetName="Narrative01audio"
+    VolumeChannel="1"
+    AssetAutoUnload="0"
+    AudioFile="Narrative01audio.wav" />
